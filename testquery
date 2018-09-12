@@ -1,0 +1,4 @@
+select *
+from storyking
+where genre 'drama' AND 'horror'
+group by name ;
